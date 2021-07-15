@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZenPie007
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning C++
+- I would love a mentor because I am very new in programming and would love to learn new stuff.
